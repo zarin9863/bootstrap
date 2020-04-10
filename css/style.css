@@ -1,0 +1,52 @@
+
+/*             
+           Master Stylesheet
+=====================================
+     Template Name : Minimo 
+     Author:Nusrat Zarin Khan 
+     Author Url:https://nusratzarin.com
+     Descriptions:PSD TO HTML Practise
+     Version:1.0.0
+     Tag:Blog
+
+*/
+
+
+/*
+           Table of Contents
+====================================
+    1.Typrography 
+    2.Heading
+    3.
+    4.
+    5.
+
+font-family: 'PT Sans', sans-serif;
+
+*/
+
+/*======================================
+               Typrography
+========================================*/
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap');
+*{
+	box-sizing: border-box;
+}
+/*-==================================
+         HEADER 
+==================================---*/
+ 
+ .image{
+ 	height: 400px;
+ 	width: 500px;
+ 	margin: 50px;
+ }
+ 
+.photo{
+	height: 400px;
+	width: 300px;
+	margin: 45px;
+	padding-top: 300px ;
+	padding-bottom: 200px;
+
+}
